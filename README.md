@@ -47,12 +47,3 @@ five part
 
 ![OTP send Process high level abstract](/images/fly4.png)
 Fig 2.0 Application Control flow
-
-
-             |  
-:-------------------------:|:-------------------------:
-Introduction
-This is application introduction page. This appears when the
-app is launching first time after onward this part is skipped
-and directly show the main Navigation page. But if user press
-back the show introduction page then exit.  |  ![](/screenshot/screenshot_1.png)

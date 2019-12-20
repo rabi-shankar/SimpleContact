@@ -83,5 +83,13 @@ The function of Send Recorder module
 
 
 Fig 6.0.1 send Message Screen | Fig 6.0.2  Message record Screen 
---- | --- | ---
+--- | --- 
 ![](/images/screenshot_6.png)| ![](/images/screenshot_7.png) 
+
+
+#### Database
+The function of the Database module
+* Save send a message with OTP in SQLite
+* Communication of data between OTP sender and Message Recorder
+
+![](/images/fly2.png)

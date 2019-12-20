@@ -50,6 +50,6 @@ Fig 2.0 Application Control flow
 
 ### Introduction
 
-<img align="right" src="/images/screenshot_1.png" height="50%">
+<img align="right" src="/images/screenshot_1.png">
 
 This is application introduction page. This appears when the app is launching first time after onward this part is skipped and directly show the main Navigation page. But if user press back the show introduction page then exit.

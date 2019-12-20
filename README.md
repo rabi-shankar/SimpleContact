@@ -63,5 +63,25 @@ This is application introduction page. This appears when the app is launching fi
 * Navigation between Contact and Message
 * Give access to Open library License activity.
 
+### OTP sender
+The function of OTP Sender
+* Manage List of contacts
+* Generation of 6 digit OTP
+* Check internet connection before sending OTP and
+* Verify OTP
 
 
+Fig 5.0 Contact detail Screen | Fig 5.1 Send OTP Screen | Fig 5.3 verify OTP Screen
+--- | --- | ---
+![](/images/screenshot_3.png)| ![](/images/screenshot_4.png) | ![](/images/screenshot_5.png)
+
+
+
+### Message Recorder
+The function of Send Recorder module
+* Display the list of OTP send Messages
+
+
+Fig 6.0.1 send Message Screen | Fig 6.0.2  Message record Screen 
+--- | --- | ---
+![](/images/screenshot_6.png)| ![](/images/screenshot_7.png) 

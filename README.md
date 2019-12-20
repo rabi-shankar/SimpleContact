@@ -54,7 +54,7 @@ Fig 2.0 Application Control flow
 This is application introduction page. This appears when the app is launching first time after onward this part is skipped and directly show the main Navigation page. But if user press back the show introduction page then exit.
 
 ### Main Navigation
-![](/images/screenshot_1.png)  Fig 4.0 Main Navigation Screen
+![](/images/screenshot_2.png)  Fig 4.0 Main Navigation Screen
 
 The function of Main Navigation
 ' Navigation between Contact and Message

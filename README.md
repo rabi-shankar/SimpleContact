@@ -112,4 +112,4 @@ https://docs.fast2sms.com/
 
 #### Phone
 Get SMS from AX-FSTSMS content OTP.
-<img align="right" src="images/fly6.png">
+![Simple Contact](/images/fly6.png)

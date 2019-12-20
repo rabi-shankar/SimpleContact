@@ -73,7 +73,7 @@ The function of OTP Sender
 
 Fig 5.0 Contact detail Screen | Fig 5.1 Send OTP Screen | Fig 5.3 verify OTP Screen
 --- | --- | ---
-![](/images/screenshot_3.png)| ![](/images/screenshot_4.png) | ![](/images/screenshot_5.png)
+![](/images/screenshot_6.png)| ![](/images/screenshot_7.png) | ![](/images/screenshot_8.png)
 
 
 
@@ -82,9 +82,9 @@ The function of Send Recorder module
 * Display the list of OTP send Messages
 
 
-Fig 6.0.1 send Message Screen | Fig 6.0.2  Message record Screen 
---- | --- 
-![](/images/screenshot_6.png)| ![](/images/screenshot_7.png) 
+Fig 6.0.1 send Message Screen | Fig 6.0.2  Message record Screen | Open library license
+--- | --- |---
+![](/images/screenshot_3.png)| ![](/images/screenshot_4.png)| ![](/images/screenshot_5.png)
 
 
 #### Database

@@ -92,4 +92,24 @@ The function of the Database module
 * Save send a message with OTP in SQLite
 * Communication of data between OTP sender and Message Recorder
 
-![](/images/fly2.png)
+![](/images/fly2.png) Fig 7.0 Database connection diagram
+
+####  PHP Server
+This intermediate server running in apache server provide by 000webhost (powered by
+Hostinger). The script is written in PHP (single file script size approx: 50 lines of code)
+* https://in.000webhost.com/
+
+![](/images/fly5.png)
+
+
+#### Fast2SMS
+
+SMS Gateway API. Our Bulk SMS API work with PHP, JAVA, C#, C, Python, Ruby, Javascript,
+NodeJS, etc. Secure, robust and easy to integrate APIs to send Promotional, Transactional &
+Quick Transactional SMS via REST API.
+
+https://docs.fast2sms.com/
+
+#### Phone
+Get SMS from AX-FSTSMS content OTP.
+<img align="right" src="images/fly6.png">

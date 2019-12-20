@@ -49,6 +49,16 @@ five part
 Fig 2.0 Application Control flow
 
 ### Introduction
-![OTP send Process high level abstract](/images/screenshot_1.png)
+![](/images/screenshot_1.png)  Fig 3.0 Introduction screen
 
 This is application introduction page. This appears when the app is launching first time after onward this part is skipped and directly show the main Navigation page. But if user press back the show introduction page then exit.
+
+### Main Navigation
+![](/images/screenshot_2.png)  Fig 4.0 Main Navigation Screen
+
+The function of Main Navigation
+' Navigation between Contact and Message
+' Give access to Open library License activity.
+
+
+
